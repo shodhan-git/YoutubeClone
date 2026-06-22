@@ -6,7 +6,7 @@ A responsive YouTube homepage clone built using **HTML5** and **CSS3**. This pro
 
 🔗 https://youtube-clone-nu-tan.vercel.app/
 
-## 📸 Preview
+## 📸 Preview 
 
 ![YouTube Clone Screenshot](Demo/Screenshot1.png)
 
