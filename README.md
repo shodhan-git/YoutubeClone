@@ -1,8 +1,8 @@
-# 🎬 YouTube Clone
+#  YouTube Clone
 
 A responsive YouTube homepage clone built using **HTML5** and **CSS3**. This project was created to strengthen my understanding of modern CSS layout techniques including **Grid**, **Flexbox**, and **Positioning** while recreating a real-world user interface.
 
-## 🚀 Live Demo
+##  Live Demo
 
 🔗 https://youtube-clone-nu-tan.vercel.app/
 
